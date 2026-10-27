@@ -1,34 +1,38 @@
-# \# Nova-AI
+# Nova-AI
 
-# 
+A small AI-assistant learning project associated with Python and Tkinter.
 
-# AI Powered Smart Assistant built using Python and Tkinter.
+## Intended features
 
-# 
+The original project description mentions:
+- AI chat
+- Voice assistant
+- Desktop GUI
 
-# \## Features
+These features should be treated as intended features until each one is confirmed to work from the current repository.
 
-# \- AI Chat
+## Current repository contents
 
-# \- Voice Assistant
+The visible root listing includes a Jupyter notebook (`Untitled1.ipynb`) and a license file. A `main.py` entry point and dependency file were not visible in the listing when this README was updated.
 
-# \- GUI Interface
+## Next steps to make the project reproducible
 
-# 
+1. Give the notebook a descriptive name and explain its purpose.
+2. Add the application source files if the GUI/voice assistant is implemented.
+3. Add a `requirements.txt` listing the dependencies actually used.
+4. Document environment variables without committing API keys or secrets.
+5. Add setup and run commands that match the real entry point.
+6. Include screenshots or a short demo only after confirming the application works.
 
-# \## Technologies Used
+## Technology
 
-# \- Python
+- Python
+- Tkinter (as described in the original project overview)
 
-# \- Tkinter
+## Security note
 
-# 
+Never commit API keys, passwords, or private credentials. Use environment variables and provide a safe example configuration instead.
 
-# \## How to Run
+## Author
 
-# 
-
-# ```bash
-
-# python main.py
-
+Swapnil Rathod
